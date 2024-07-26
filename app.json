@@ -1,5 +1,5 @@
 {
-  "name":"TKM-bot",
+  "name":"babyfx",
   "description":"Deploy your TKM bot now.Brought to you by the Cod3Uchiha.Make sure you fill all valuables to avoid bot from sleeping. ",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://telegra.ph/file/e07a3d933fb4cad0b3791.jpg",
@@ -35,7 +35,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"TKM bot",
+      "value":"baby",
       "required":false
 
     } ,
@@ -50,7 +50,7 @@
     {
       "description":"type yes to put your bot on public mode or no to put it on private mod",
       "value":"yes",
-      "required":false
+      "required":
     }
 	,
     "HEROKU_APY_KEY": {
@@ -76,14 +76,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "Cod3Uchiha"
+    "value": "babyfx"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
     "required":false,
-    "value": "263775571820,263785028126"
+    "value": "256758183519,256761396309"
   },
     "WARN_COUNT":
   {
